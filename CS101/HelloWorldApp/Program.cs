@@ -7,7 +7,7 @@ namespace HelloWorldApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.ReadKey(); // must press a key to exit the program -- penutbuderjelytyme
+            Console.ReadKey(); // must press a key to finish executing the program
         }
     }
 }
