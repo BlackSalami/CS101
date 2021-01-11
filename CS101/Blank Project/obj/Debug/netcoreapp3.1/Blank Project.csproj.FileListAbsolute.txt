@@ -1,0 +1,13 @@
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\bin\Debug\netcoreapp3.1\Blank Project.exe
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\bin\Debug\netcoreapp3.1\Blank Project.deps.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\bin\Debug\netcoreapp3.1\Blank Project.runtimeconfig.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\bin\Debug\netcoreapp3.1\Blank Project.runtimeconfig.dev.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\bin\Debug\netcoreapp3.1\Blank Project.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\bin\Debug\netcoreapp3.1\Blank Project.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\obj\Debug\netcoreapp3.1\Blank Project.csprojAssemblyReference.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\obj\Debug\netcoreapp3.1\Blank Project.AssemblyInfoInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\obj\Debug\netcoreapp3.1\Blank Project.AssemblyInfo.cs
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\obj\Debug\netcoreapp3.1\Blank Project.csproj.CoreCompileInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\obj\Debug\netcoreapp3.1\Blank Project.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\obj\Debug\netcoreapp3.1\Blank Project.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\Blank Project\obj\Debug\netcoreapp3.1\Blank Project.genruntimeconfig.cache
