@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\BlackSalami\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\drew\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BlackSalami\\Documents\\GitHub\\CS101\\CS101\\SE1\\SE1.csproj",
+      "projectUniqueName": "C:\\Users\\drew\\Documents\\GitHub\\CS101\\CS101\\SE1\\SE1.csproj",
       "projectName": "SE1",
-      "projectPath": "C:\\Users\\BlackSalami\\Documents\\GitHub\\CS101\\CS101\\SE1\\SE1.csproj",
-      "packagesPath": "C:\\Users\\BlackSalami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BlackSalami\\Documents\\GitHub\\CS101\\CS101\\SE1\\obj\\",
+      "projectPath": "C:\\Users\\drew\\Documents\\GitHub\\CS101\\CS101\\SE1\\SE1.csproj",
+      "packagesPath": "C:\\Users\\drew\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\drew\\Documents\\GitHub\\CS101\\CS101\\SE1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\BlackSalami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\drew\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

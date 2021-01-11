@@ -11,3 +11,16 @@ C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\
 C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.dll
 C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.pdb
 C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.genruntimeconfig.cache
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\bin\Debug\netcoreapp3.1\Working Project.exe
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\bin\Debug\netcoreapp3.1\Working Project.deps.json
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\bin\Debug\netcoreapp3.1\Working Project.runtimeconfig.json
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\bin\Debug\netcoreapp3.1\Working Project.runtimeconfig.dev.json
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\bin\Debug\netcoreapp3.1\Working Project.dll
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\bin\Debug\netcoreapp3.1\Working Project.pdb
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.csprojAssemblyReference.cache
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.AssemblyInfoInputs.cache
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.AssemblyInfo.cs
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.csproj.CoreCompileInputs.cache
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.dll
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.pdb
+C:\Users\drew\Documents\GitHub\CS101\CS101\CS101\obj\Debug\netcoreapp3.1\Working Project.genruntimeconfig.cache

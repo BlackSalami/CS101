@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BlackSalami\\Documents\\GitHub\\CS101\\CS101\\CS101\\Working Project.csproj": {}
+    "C:\\Users\\drew\\Documents\\GitHub\\CS101\\CS101\\CS101\\Working Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BlackSalami\\Documents\\GitHub\\CS101\\CS101\\CS101\\Working Project.csproj": {
+    "C:\\Users\\drew\\Documents\\GitHub\\CS101\\CS101\\CS101\\Working Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BlackSalami\\Documents\\GitHub\\CS101\\CS101\\CS101\\Working Project.csproj",
+        "projectUniqueName": "C:\\Users\\drew\\Documents\\GitHub\\CS101\\CS101\\CS101\\Working Project.csproj",
         "projectName": "Working Project",
-        "projectPath": "C:\\Users\\BlackSalami\\Documents\\GitHub\\CS101\\CS101\\CS101\\Working Project.csproj",
-        "packagesPath": "C:\\Users\\BlackSalami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BlackSalami\\Documents\\GitHub\\CS101\\CS101\\CS101\\obj\\",
+        "projectPath": "C:\\Users\\drew\\Documents\\GitHub\\CS101\\CS101\\CS101\\Working Project.csproj",
+        "packagesPath": "C:\\Users\\drew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drew\\Documents\\GitHub\\CS101\\CS101\\CS101\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\BlackSalami\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\drew\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
