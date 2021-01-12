@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SE1 // Slideshow Example 1
+namespace SE1 // Slideshow Example 1 - General
 {
     class Program
     {

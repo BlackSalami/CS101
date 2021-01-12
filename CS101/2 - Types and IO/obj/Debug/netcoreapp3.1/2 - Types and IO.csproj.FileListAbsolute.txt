@@ -1,0 +1,12 @@
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\bin\Debug\netcoreapp3.1\2 - Types and IO.exe
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\bin\Debug\netcoreapp3.1\2 - Types and IO.deps.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\bin\Debug\netcoreapp3.1\2 - Types and IO.runtimeconfig.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\bin\Debug\netcoreapp3.1\2 - Types and IO.runtimeconfig.dev.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\bin\Debug\netcoreapp3.1\2 - Types and IO.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\bin\Debug\netcoreapp3.1\2 - Types and IO.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\obj\Debug\netcoreapp3.1\2 - Types and IO.AssemblyInfoInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\obj\Debug\netcoreapp3.1\2 - Types and IO.AssemblyInfo.cs
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\obj\Debug\netcoreapp3.1\2 - Types and IO.csproj.CoreCompileInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\obj\Debug\netcoreapp3.1\2 - Types and IO.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\obj\Debug\netcoreapp3.1\2 - Types and IO.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\2 - Types and IO\obj\Debug\netcoreapp3.1\2 - Types and IO.genruntimeconfig.cache
