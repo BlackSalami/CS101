@@ -14,6 +14,7 @@ namespace SE4 // Slideshow Example 4 - Explicit Type Conversions (Reference Type
             // throw an exception at run time if the right-side
             // object is not in fact a DerivedClassExample.
             DerivedClassExample dClassTwo = (DerivedClassExample)bClass;
+            Console.WriteLine("Explicit base class to derived class conversion works!");
         }
     }
     class BaseClassExample
