@@ -1,0 +1,12 @@
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\bin\Debug\netcoreapp3.1\EX1.exe
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\bin\Debug\netcoreapp3.1\EX1.deps.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\bin\Debug\netcoreapp3.1\EX1.runtimeconfig.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\bin\Debug\netcoreapp3.1\EX1.runtimeconfig.dev.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\bin\Debug\netcoreapp3.1\EX1.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\bin\Debug\netcoreapp3.1\EX1.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\obj\Debug\netcoreapp3.1\EX1.AssemblyInfoInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\obj\Debug\netcoreapp3.1\EX1.AssemblyInfo.cs
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\obj\Debug\netcoreapp3.1\EX1.csproj.CoreCompileInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\obj\Debug\netcoreapp3.1\EX1.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\obj\Debug\netcoreapp3.1\EX1.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\EX1\obj\Debug\netcoreapp3.1\EX1.genruntimeconfig.cache

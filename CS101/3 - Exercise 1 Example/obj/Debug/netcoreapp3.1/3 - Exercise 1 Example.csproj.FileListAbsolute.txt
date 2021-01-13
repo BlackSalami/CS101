@@ -1,0 +1,13 @@
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\bin\Debug\netcoreapp3.1\3 - Exercise 1 Example.exe
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\bin\Debug\netcoreapp3.1\3 - Exercise 1 Example.deps.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\bin\Debug\netcoreapp3.1\3 - Exercise 1 Example.runtimeconfig.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\bin\Debug\netcoreapp3.1\3 - Exercise 1 Example.runtimeconfig.dev.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\bin\Debug\netcoreapp3.1\3 - Exercise 1 Example.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\bin\Debug\netcoreapp3.1\3 - Exercise 1 Example.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\obj\Debug\netcoreapp3.1\3 - Exercise 1 Example.csprojAssemblyReference.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\obj\Debug\netcoreapp3.1\3 - Exercise 1 Example.AssemblyInfoInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\obj\Debug\netcoreapp3.1\3 - Exercise 1 Example.AssemblyInfo.cs
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\obj\Debug\netcoreapp3.1\3 - Exercise 1 Example.csproj.CoreCompileInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\obj\Debug\netcoreapp3.1\3 - Exercise 1 Example.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\obj\Debug\netcoreapp3.1\3 - Exercise 1 Example.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\3 - Exercise 1 Example\obj\Debug\netcoreapp3.1\3 - Exercise 1 Example.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\bin\Debug\netcoreapp3.1\SE8.exe
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\bin\Debug\netcoreapp3.1\SE8.deps.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\bin\Debug\netcoreapp3.1\SE8.runtimeconfig.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\bin\Debug\netcoreapp3.1\SE8.runtimeconfig.dev.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\bin\Debug\netcoreapp3.1\SE8.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\bin\Debug\netcoreapp3.1\SE8.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\obj\Debug\netcoreapp3.1\SE8.AssemblyInfoInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\obj\Debug\netcoreapp3.1\SE8.AssemblyInfo.cs
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\obj\Debug\netcoreapp3.1\SE8.csproj.CoreCompileInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\obj\Debug\netcoreapp3.1\SE8.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\obj\Debug\netcoreapp3.1\SE8.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\SE8\obj\Debug\netcoreapp3.1\SE8.genruntimeconfig.cache

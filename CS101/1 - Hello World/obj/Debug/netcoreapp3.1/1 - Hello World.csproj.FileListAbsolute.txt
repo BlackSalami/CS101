@@ -1,0 +1,13 @@
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.exe
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.deps.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.runtimeconfig.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.runtimeconfig.dev.json
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\bin\Debug\netcoreapp3.1\1 - Hello World.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.csprojAssemblyReference.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.AssemblyInfoInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.AssemblyInfo.cs
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.dll
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.pdb
+C:\Users\BlackSalami\Documents\GitHub\CS101\CS101\1 - Hello World\obj\Debug\netcoreapp3.1\1 - Hello World.genruntimeconfig.cache
